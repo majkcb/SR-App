@@ -23,7 +23,7 @@ class ScheduleScreen extends StatefulWidget {
   const ScheduleScreen({super.key});
 
   @override
-  _ScheduleScreenState createState() => _ScheduleScreenState();
+  _ScheduleScreenState createState() => _ScheduleScreenState(); //Fix
 }
 
 class _ScheduleScreenState extends State<ScheduleScreen> {
